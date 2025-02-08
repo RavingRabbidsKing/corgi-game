@@ -1,9 +1,6 @@
 namespace SpriteKind {
     export const Coin = SpriteKind.create()
 }
-scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile0`, function (sprite, location) {
-    info.changeScoreBy(1)
-})
 scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile`, function (sprite, location) {
     game.over(true)
 })

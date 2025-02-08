@@ -1,0 +1,18 @@
+{
+    "image1": {
+        "data": "hwQEAAQAAABQBQAAVVQAAEVVAABQBQAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "coin"
+    },
+    "song1": {
+        "data": "0078000408010200001c00010a006400f401640000040000000000000000000000000005000004240000000400012a0400080001250c001000012514001800012c18001c0001271c002000012708001c000e050046006603320000040a002d00000064001400010000020000022000000004000208160400080001080c001000010818001c0001081c002000020816",
+        "mimeType": "application/mkcd-song",
+        "displayName": "song",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
